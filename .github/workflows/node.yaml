@@ -35,4 +35,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: shrikantsharma606/react-app:latest
+          tags: shrikantsharma606/react-app:v1
